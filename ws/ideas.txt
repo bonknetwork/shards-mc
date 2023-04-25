@@ -1,0 +1,68 @@
+Key: R: Required feature, E: Extra feature
+
+-(R, IMPLEMENTED) Possible Shards:
+	Shard of Darkness: Vish
+	Shard of Light: Akshay
+	Shard of War: Shloak
+	Shard of Power: Eshan
+	Shard of Shadow: Arjun
+	Shard of Ice (removed)
+	Shard of Destruction: Prateek
+	Shard of Creation: AT and T
+	Shard of RAGE: None
+	Shard of Flame: Trishant
+	Shard of the Sea: Jason
+	Shard of Money (removed)
+	Shard of Ghost: Sunny
+
+-(R, IMPLEMENTED) Every shard has a different color and/or texture.
+	-Shard of Darkness: Black Particles Around Texture
+	-Shard of Light: White Particles Around Texture
+	-Shard of War: Red Particles Around Texture
+	-Shard of Power: Yellow Particles Around Texture
+	-Shard of Shadow: Darkend Shard Color
+	-Shard of Ice: Frozen Looking Shard
+	-Shard of Destruction: Grey Particles Around Texture
+	-Shard of Creation: Purple Particles Around Texture
+	-Shard of RAGE: Red, Sky Blue Particles Around Texture
+	-Shard of Flame: Orange Particles Around Texture
+	-Shard of the Sea: Dark Blue Particles Around Texture
+	-Shard of Money: Joe Texture
+	-Shard of Ghost: Protection Akshay texture.
+
+
+-(R, In Progress) When held in a shard is held in off-hand, shard can give effects.
+	- Cannot also work in main hand because with strength effect, the shard will be too OP.
+This is because there is no attack cooldown when hitting with non-tool/weapon items.
+
+	-Shard of Darkness: Strength 1, resistance 1
+	-Shard of Light: Speed 2
+	-Shard of War: Strength 1, speed 1
+	-Shard of Power: Strength 2
+	-Shard of Shadow: Burst of 20 second invisibility with speed 1 every 4 minutes
+	-Shard of Ice: Slowness in Nether, Speed on ice, Feather falling in End, Luck in Overworld (removed)
+	-Shard of Destruction: Haste 1, strength 1
+	-Shard of Creation: Speed 1, regeneration 1
+	-Shard of RAGE: Regeneration 1, speed 1, strength 2, resistance 2, night vision 1, fire resistance 1, haste 1, luck 3, (By throwing all shards one ground it crafts this shard)
+	-Shard of Flame: Fire resistance, weakness on ice/water/snow, strength in nether
+	-Shard of the Sea: Strength 2 on/in water, strength 1 on ice, weakness in nether
+	-Shard of Money: Gives 1 diamond per 15 minutes (removed)
+	-Shard of Ghost: Invis 255, Weakness 255. Cannot combat while holding.
+
+(R, In Progress) When all shards thrown on ground it crafts the shard of RAGE.
+
+-(E) Could make shards carrots/warped fungus on a stick to add right click abillity. Would work very well with idea 2.
+
+-(E, CANCELED) After killing a player and getting their shard, you can throw your shard, and their shard on the ground with an fragment infuser
+to combine the two shards.
+	- Should utulize tags, custom model data will make this very hard due to possibly thousands of possibilities.
+
+	- Cannot combine three shards at once.
+
+	- Fragment infuser:
+        - Can be crafted like this: Key: i = Iron Ingot, r = Redstone dust, d = Diamond, n = Netherite Ingot, 
+        I = Iron Block, R = Redstone Block
+        Layout: 
+        iri
+        dnd
+        IRI

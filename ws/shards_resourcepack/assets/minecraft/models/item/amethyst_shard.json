@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/amethyst_shard"
+  },
+  "overrides":
+  [
+    {"predicate": {"custom_model_data": 10101}, "model": "shards/creation"},
+    {"predicate": {"custom_model_data": 20202}, "model": "shards/darkness"},
+    {"predicate": {"custom_model_data": 30303}, "model": "shards/destruction"},
+    {"predicate": {"custom_model_data": 40404}, "model": "shards/flame"},
+    {"predicate": {"custom_model_data": 50505}, "model": "shards/ice"},
+    {"predicate": {"custom_model_data": 60606}, "model": "shards/light"},
+    {"predicate": {"custom_model_data": 70707}, "model": "shards/money"},
+    {"predicate": {"custom_model_data": 80808}, "model": "shards/power"},
+    {"predicate": {"custom_model_data": 90909}, "model": "shards/ghost"},
+    {"predicate": {"custom_model_data": 101010}, "model": "shards/rage"},
+    {"predicate": {"custom_model_data": 111111}, "model": "shards/sea"},
+    {"predicate": {"custom_model_data": 121212}, "model": "shards/shadow"},
+    {"predicate": {"custom_model_data": 131313}, "model": "shards/war"}
+  ]
+}
