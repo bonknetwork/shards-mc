@@ -16,7 +16,6 @@
     {"predicate": {"custom_model_data": 90909}, "model": "shards/ghost"},
     {"predicate": {"custom_model_data": 101010}, "model": "shards/rage"},
     {"predicate": {"custom_model_data": 111111}, "model": "shards/sea"},
-    {"predicate": {"custom_model_data": 121212}, "model": "shards/shadow"},
     {"predicate": {"custom_model_data": 131313}, "model": "shards/war"}
   ]
 }

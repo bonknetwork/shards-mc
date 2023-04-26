@@ -1,1 +1,2 @@
 effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:60606}}]}] speed 2 1 true
+effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:60606}}]}] weakness 2 0 true

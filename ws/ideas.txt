@@ -35,19 +35,19 @@ Key: R: Required feature, E: Extra feature
 	- Cannot also work in main hand because with strength effect, the shard will be too OP.
 This is because there is no attack cooldown when hitting with non-tool/weapon items.
 
-	-Shard of Darkness: Strength 1, resistance 1
-	-Shard of Light: Speed 2
-	-Shard of War: Strength 1, speed 1
-	-Shard of Power: Strength 2
+	-Shard of Darkness: Strength 1, jump boost 1, slowness 1
+	-Shard of Light: Speed 2, weakness 1
+	-Shard of War: Strength 1, speed 1, bad omen 5, glowing 1
+	-Shard of Power: Strength 1, resistance 1, hunger 2
 	-Shard of Shadow: Burst of 20 second invisibility with speed 1 every 4 minutes
-	-Shard of Ice: Slowness in Nether, Speed on ice, Feather falling in End, Luck in Overworld (removed)
-	-Shard of Destruction: Haste 1, strength 1
-	-Shard of Creation: Speed 1, regeneration 1
-	-Shard of RAGE: Regeneration 1, speed 1, strength 2, resistance 2, night vision 1, fire resistance 1, haste 1, luck 3, (By throwing all shards one ground it crafts this shard)
-	-Shard of Flame: Fire resistance, weakness on ice/water/snow, strength in nether
-	-Shard of the Sea: Strength 2 on/in water, strength 1 on ice, weakness in nether
-	-Shard of Money: Gives 1 diamond per 15 minutes (removed)
-	-Shard of Ghost: Invis 255, Weakness 255. Cannot combat while holding.
+	-Shard of Ice: Slowness in Nether, Speed on ice, Feather falling in End, frost walker (not as an enchant)
+	-Shard of Destruction: Haste 1, strength 1, 9 hearts
+	-Shard of Creation: Mining fatuige 1, regeneration 1
+	-Shard of RAGE: Regeneration 1, speed 1, strength 2, resistance 2,  fire resistance 1, haste 1(By throwing all shards one ground it crafts this shard)
+	-Shard of Flame: Fire resistance, weakness on H2O blocks/liquids, strength 1 in nether
+	-Shard of the Sea: Strength 2 on/in water, strength 1 on ice, weakness in nether, water breathing 5, dolphin's grace 2
+	-Shard of Money: Gives 1 diamond per 5 minutes (12 diamonds/hr)
+	-Shard of Ghost: Invis 255 with particles, Weakness 255. Cannot combat while holding.
 
 (R, In Progress) When all shards thrown on ground it crafts the shard of RAGE.
 

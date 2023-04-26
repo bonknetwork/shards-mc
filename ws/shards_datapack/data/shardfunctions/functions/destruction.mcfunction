@@ -1,2 +1,4 @@
 effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:30303}}]}] haste 2 0 true
 effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:30303}}]}] strength 2 0 true
+attribute @r[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:30303}}]}] minecraft:generic.max_health base set 18
+execute if score @r[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:30303}}]}] darkness_health > @r[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:30303}}]}] amt_health run effect give @r[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:30303}}]}] instant_damage 2 0 true
