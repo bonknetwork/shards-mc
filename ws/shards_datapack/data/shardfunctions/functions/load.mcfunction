@@ -5,4 +5,3 @@ team add in_nether
 team add in_end
 scoreboard objectives add darkness_health health "darknessplayerhealth"
 scoreboard objectives add amt_health dummy "amt_health"
-scoreboard players set @a amt_health 16

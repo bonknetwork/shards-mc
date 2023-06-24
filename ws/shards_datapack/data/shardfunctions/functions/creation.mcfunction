@@ -1,2 +1,3 @@
-effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:10101}}]}] regeneration 2 0 true
+effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:10101}}]}] regeneration 2 1 true
 effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:10101}}]}] mining_fatigue 2 0 true
+attribute @r[nbt={Inventory:[{id:"minecraft:amethyst_shard",tag:{CustomModelData:10101}}, {Slot:-106b,id:"minecraft:air"}]}] minecraft:generic.max_health base set 20
