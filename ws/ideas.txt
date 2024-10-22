@@ -1,19 +1,19 @@
 Key: R: Required feature, E: Extra feature
 
 -(R, IMPLEMENTED) Possible Shards:
-	Shard of Darkness: Vish
-	Shard of Light: Akshay
-	Shard of War: Shloak
-	Shard of Power: Eshan
-	Shard of Shadow: Arjun
-	Shard of Ice (removed)
-	Shard of Destruction: Prateek
-	Shard of Creation: AT and T
-	Shard of RAGE: None
-	Shard of Flame: Trishant
-	Shard of the Sea: Jason
-	Shard of Money (removed)
-	Shard of Ghost: Sunny
+	-Shard of Darkness
+	-Shard of Light
+	-Shard of War
+	-Shard of Power
+	-Shard of Shadow
+	-Shard of Ice
+	-Shard of Destruction
+	-Shard of Creation
+	-Shard of RAGE
+	-Shard of Flame
+	-Shard of the Sea
+	-Shard of Money
+	-Shard of Ghost
 
 -(R, IMPLEMENTED) Every shard has a different color and/or texture.
 	-Shard of Darkness: Black Particles Around Texture
@@ -27,14 +27,13 @@ Key: R: Required feature, E: Extra feature
 	-Shard of RAGE: Red, Sky Blue Particles Around Texture
 	-Shard of Flame: Orange Particles Around Texture
 	-Shard of the Sea: Dark Blue Particles Around Texture
-	-Shard of Money: Joe Texture
-	-Shard of Ghost: Protection Akshay texture.
+	-Shard of Money: Joe's Texture
+	-Shard of Ghost: Recreation of turkey's texture
 
 
--(R, In Progress) When held in a shard is held in off-hand, shard can give effects.
-	- Cannot also work in main hand because with strength effect, the shard will be too OP.
-This is because there is no attack cooldown when hitting with non-tool/weapon items.
-
+-(R, IMPLEMENTED) When held in a shard is held in off-hand, shard can give effects.
+	-Cannot also work in main hand because with strength effect, the shard will be too OP. This is because there is no attack cooldown when hitting with non-tool/weapon items.
+	-Shard of Creation: Regeneration 2, Mining Fatigue 1
 	-Shard of Darkness: Strength 1, jump boost 1, slowness 1
 	-Shard of Light: Speed 2, weakness 1
 	-Shard of War: Strength 1, speed 1, bad omen 5, glowing 1
@@ -49,12 +48,29 @@ This is because there is no attack cooldown when hitting with non-tool/weapon it
 	-Shard of Money: Gives 1 diamond per 5 minutes (12 diamonds/hr)
 	-Shard of Ghost: Invis 255 with particles, Weakness 255. Cannot combat while holding.
 
-(R, In Progress) When all shards thrown on ground it crafts the shard of RAGE.
+-(R, IMPLEMENTED) When all shards thrown on ground it crafts the shard of RAGE.
 
 -(E) Could make shards carrots/warped fungus on a stick to add right click abillity. Would work very well with idea 2.
+	-Shard of Darkness: 
+	-Shard of Light: 
+	-Shard of War: 
+	-Shard of Power
+	-Shard of Shadow
+	-Shard of Ice
+	-Shard of Destruction
+	-Shard of Creation
+	-Shard of RAGE
+	-Shard of Flame: Shoot a fireball
+	-Shard of the Sea
+	-Shard of Money
+	-Shard of Ghost
+-(E, CANCELED) Can upgrade shards into remodeled diamond sword
 
 -(E, CANCELED) After killing a player and getting their shard, you can throw your shard, and their shard on the ground with an fragment infuser
 to combine the two shards.
+
+	- CANCELED, DEEMED IMPOSSIBLE
+
 	- Should utulize tags, custom model data will make this very hard due to possibly thousands of possibilities.
 
 	- Cannot combine three shards at once.
