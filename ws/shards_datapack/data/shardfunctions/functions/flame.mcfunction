@@ -14,6 +14,9 @@ execute as @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{Cus
 
 execute as @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:40404}}]}] at @s if block ~ ~-1 ~ snow run effect give @s weakness 2 0 true
 
+execute as @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:40404}}]}] at @s if block ~ ~ ~ snow run effect give @s weakness 2 0 true
+
+
 execute as @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:40404}}]}] at @s if block ~ ~-1 ~ powder_snow run effect give @s weakness 2 0 true
 
 effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:40404}}]}, team=in_nether] strength 2 0 true

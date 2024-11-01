@@ -1,7 +1,6 @@
 {
 
     "values":[
-        "shardfunctions:shadow",
         "shardfunctions:money",
         "shardfunctions:load"
         ]
