@@ -1,0 +1,1 @@
+sh /home/shloak/updateshards.sh
