@@ -1,0 +1,17 @@
+{
+	"values": [
+	"shardfunctions:creation",
+    "shardfunctions:darkness",
+    "shardfunctions:destruction",
+    "shardfunctions:flame",
+    "shardfunctions:rage",
+    "shardfunctions:ice",
+    "shardfunctions:light",
+    "shardfunctions:power",
+    "shardfunctions:ghost",
+    "shardfunctions:sea",
+    "shardfunctions:war",
+    "shardfunctions:craftingloop",
+    "shardfunctions:tick"
+	]
+}

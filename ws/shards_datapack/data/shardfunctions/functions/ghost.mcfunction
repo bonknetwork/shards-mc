@@ -1,2 +1,0 @@
-effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:90909}}]}] invisibility 2 255 false
-effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:90909}}]}] weakness 2 255 true
