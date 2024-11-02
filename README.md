@@ -2,6 +2,7 @@
 Originally designed for the Shard SMP, a private SMP for friends that was not recorded in any way nor was it public. 
 ~~Currently discontinued but could be revived for bonk network (https://discord.gg/bonknetwork)~~ Revived, planned use in https://discord.gg/bonknetwork. For those who say this is a Bliss SMP copy, I made this project back in 2020 and used it on the SMP mentioned earlier until 2021. The pack was publicly released in May of 2022 on Planet Minecraft here: https://www.planetminecraft.com/data-pack/shards-data-pack/. Please note I am not in any way implying that they copied me.
 
+
 # --> [Download Here](https://github.com/bonknetwork/shards-mc/releases) <--
 
 # Gameplay Info
