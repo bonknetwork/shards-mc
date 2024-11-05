@@ -7,7 +7,7 @@ effect give @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{Cu
 
 execute as @a[nbt={Inventory:[{Slot:-106b,id:"minecraft:amethyst_shard",tag:{CustomModelData:101010}}]}] at @s run particle flame ~ ~ ~ 1 1 1 0.5 6
 
-execute at @e[tag=Circle] run particle minecraft:cloud ^ ^1 ^1 0 0 0 0 100
+execute at @e[tag=Circle] run particle minecraft:ambient_entity_effect ^ ^1 ^1 0 0 0 0 100
 
 execute as @e[tag=Circle] at @s run tp @s ~ ~ ~ ~100 ~
 
