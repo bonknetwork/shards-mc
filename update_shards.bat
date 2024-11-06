@@ -1,2 +1,1 @@
-#wsl sh /home/shloak/updateshards.sh
-sh /home/shloak/updateshards.sh
+wsl sh /home/shloak/updateshards.sh
